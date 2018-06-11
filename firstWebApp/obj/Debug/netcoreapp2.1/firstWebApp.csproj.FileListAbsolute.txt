@@ -1,0 +1,14 @@
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/bin/Debug/netcoreapp2.1/firstWebApp.deps.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/bin/Debug/netcoreapp2.1/firstWebApp.runtimeconfig.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/bin/Debug/netcoreapp2.1/firstWebApp.runtimeconfig.dev.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/bin/Debug/netcoreapp2.1/firstWebApp.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/bin/Debug/netcoreapp2.1/firstWebApp.pdb
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/obj/Debug/netcoreapp2.1/firstWebApp.csprojAssemblyReference.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/obj/Debug/netcoreapp2.1/firstWebApp.csproj.CoreCompileInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/obj/Debug/netcoreapp2.1/firstWebApp.RazorAssemblyInfo.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/obj/Debug/netcoreapp2.1/firstWebApp.RazorAssemblyInfo.cs
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/obj/Debug/netcoreapp2.1/firstWebApp.AssemblyInfoInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/obj/Debug/netcoreapp2.1/firstWebApp.AssemblyInfo.cs
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/obj/Debug/netcoreapp2.1/firstWebApp.RazorTargetAssemblyInfo.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/obj/Debug/netcoreapp2.1/firstWebApp.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/firstWebApp/obj/Debug/netcoreapp2.1/firstWebApp.pdb

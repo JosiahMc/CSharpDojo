@@ -1,0 +1,11 @@
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/bin/Debug/netcoreapp2.1/WizardNinjaSam.deps.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/bin/Debug/netcoreapp2.1/WizardNinjaSam.runtimeconfig.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/bin/Debug/netcoreapp2.1/WizardNinjaSam.runtimeconfig.dev.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/bin/Debug/netcoreapp2.1/WizardNinjaSam.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/bin/Debug/netcoreapp2.1/WizardNinjaSam.pdb
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/obj/Debug/netcoreapp2.1/WizardNinjaSam.csprojAssemblyReference.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/obj/Debug/netcoreapp2.1/WizardNinjaSam.csproj.CoreCompileInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/obj/Debug/netcoreapp2.1/WizardNinjaSam.AssemblyInfoInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/obj/Debug/netcoreapp2.1/WizardNinjaSam.AssemblyInfo.cs
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/obj/Debug/netcoreapp2.1/WizardNinjaSam.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/WizardNinjaSam/obj/Debug/netcoreapp2.1/WizardNinjaSam.pdb

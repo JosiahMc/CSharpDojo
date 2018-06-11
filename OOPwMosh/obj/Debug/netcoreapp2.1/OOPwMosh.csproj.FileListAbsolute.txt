@@ -1,0 +1,11 @@
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/obj/Debug/netcoreapp2.1/OOPwMosh.csprojAssemblyReference.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/obj/Debug/netcoreapp2.1/OOPwMosh.csproj.CoreCompileInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/obj/Debug/netcoreapp2.1/OOPwMosh.AssemblyInfoInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/obj/Debug/netcoreapp2.1/OOPwMosh.AssemblyInfo.cs
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/bin/Debug/netcoreapp2.1/OOPwMosh.deps.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/bin/Debug/netcoreapp2.1/OOPwMosh.runtimeconfig.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/bin/Debug/netcoreapp2.1/OOPwMosh.runtimeconfig.dev.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/bin/Debug/netcoreapp2.1/OOPwMosh.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/bin/Debug/netcoreapp2.1/OOPwMosh.pdb
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/obj/Debug/netcoreapp2.1/OOPwMosh.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/OOPwMosh/obj/Debug/netcoreapp2.1/OOPwMosh.pdb

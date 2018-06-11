@@ -1,0 +1,11 @@
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.deps.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.runtimeconfig.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.runtimeconfig.dev.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.pdb
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.csprojAssemblyReference.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.AssemblyInfoInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.AssemblyInfo.cs
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.pdb

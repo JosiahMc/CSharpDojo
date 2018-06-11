@@ -1,0 +1,11 @@
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.deps.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.runtimeconfig.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.runtimeconfig.dev.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.pdb
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.csprojAssemblyReference.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.csproj.CoreCompileInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.AssemblyInfoInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.AssemblyInfo.cs
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.pdb
