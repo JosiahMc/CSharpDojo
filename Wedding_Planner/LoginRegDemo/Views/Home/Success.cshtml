@@ -1,0 +1,33 @@
+<h1>Event to the Event Planner</h1>
+<a href="Logout" style="float:right">Log Out</a>
+
+<p>@ViewBag.User.FirstName</p>
+
+<table class="table">
+    <thead>
+        <td>Event</td>
+        <td>Date</td>
+        <td>Guest(s)</td>
+        <td>Action</td>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Events)
+            {
+                <tr>
+                    <td><a href="Event/@item.EventId">@item.WedderOne & @item.WedderTwo</a></td>
+                    <td>@item.Date</td>
+                    <td>@item.Guests.Count</td>
+                    @if (item.UserId == ViewBag.User.UserId)
+                    {
+                        <td><a href="Delete/@item.EventId">Delete</a></td>
+                        <td><a href="CreateGuest/@item.EventId">RSVP</a></td>
+                
+                    }
+                    
+                </tr>
+            }
+    </tbody>
+</table>
+
+
+<a href="NewEvent"><button>New Event</button></a>

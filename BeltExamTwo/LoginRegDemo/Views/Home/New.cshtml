@@ -1,0 +1,23 @@
+@model Event
+
+@{
+    ViewData["Title"] = "New ";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<form asp-action="Process" asp-controller="Home" method="POST">
+    <div class="wrapper">
+        
+        
+            <label>Description:</label>
+            <textarea placeholder="Post something witty here..." type="text" name="Description"></textarea>
+            <span asp-validation-for="Description"></span>
+        
+        
+            
+            <input type="submit">
+        
+
+    </div>
+</form>

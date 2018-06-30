@@ -1,0 +1,11 @@
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/bin/Debug/netcoreapp2.0/CSharpBeltExamOne.deps.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/bin/Debug/netcoreapp2.0/CSharpBeltExamOne.runtimeconfig.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/bin/Debug/netcoreapp2.0/CSharpBeltExamOne.runtimeconfig.dev.json
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/bin/Debug/netcoreapp2.0/CSharpBeltExamOne.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/bin/Debug/netcoreapp2.0/CSharpBeltExamOne.pdb
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/obj/Debug/netcoreapp2.0/CSharpBeltExamOne.csprojAssemblyReference.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/obj/Debug/netcoreapp2.0/CSharpBeltExamOne.csproj.CoreCompileInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/obj/Debug/netcoreapp2.0/CSharpBeltExamOne.AssemblyInfoInputs.cache
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/obj/Debug/netcoreapp2.0/CSharpBeltExamOne.AssemblyInfo.cs
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/obj/Debug/netcoreapp2.0/CSharpBeltExamOne.dll
+/Users/josiahmcpeak/Desktop/CSharpDojo/CSharpBeltExamOne/obj/Debug/netcoreapp2.0/CSharpBeltExamOne.pdb

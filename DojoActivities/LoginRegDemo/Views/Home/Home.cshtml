@@ -1,0 +1,55 @@
+@using System.Linq
+@using LoginRegDemo.Models
+@model IEnumerable<LoginRegDemo.Models.Event>
+
+@{
+    var EventList = ViewBag.Events as IEnumerable<LoginRegDemo.Models.Event>;
+}
+
+
+<a href="New">Submit</a>
+
+
+
+<table class="table">
+    <tr>
+         <th> Title: </th>  
+         <th> Date: </th>
+         <th> Time: </th>
+         <th> Duration: </th>
+         <th> Event Coordinator: </th>
+         <th> Action:   </th>
+         <th> # of peeps goings:   </th>
+         
+    
+    
+    </tr>  
+
+    @foreach (var item in @EventList) {
+        @if(item.Date > @ViewBag.CurrentDate) {
+    <tr>
+        <td><a href="SingleEvent/@item.EventId">@item.Title</a> </td>
+        <td>Date: @item.Date </td>
+        <td>Time: @item.Time </td> 
+        <td>Duration: @item.DurationInt @item.DurationStr </td>
+        <td>@item.user.FirstName</td>
+        <td>@item.Participants.Count</td>
+
+       @if (item.UserId == ViewBag.User.UserId) {
+        <td><a href="Delete/@item.EventId">Delete</a></td>
+           
+       }
+       else if(item.Participants.Exists(pa => pa.UserId == @ViewBag.User.UserId))
+       {
+           <td><a href="Unjoin/@item.EventId">Unjoin</a></td>
+       }
+       else 
+       {
+            <td><a href="Join/@item.EventId">Join</a></td>
+       }
+       </tr>
+    
+    }
+}
+
+</table>

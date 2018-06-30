@@ -1,0 +1,22 @@
+
+
+@{
+
+    <div class="container">
+
+    <p>Event Coordinator: <h2>@ViewBag.Users.FirstName</h2></p>
+
+    <h4>Description</h4>
+    <p>@ViewBag.Events.Description</p>
+    <p>Event Title: <h1>@ViewBag.Events.Title</h1></p> 
+
+    </div>
+
+
+
+    foreach (var item in ViewBag.event2.Participants){
+    <p>@item.user.FirstName</p>
+    <p>@item.user.LastName</p>
+    }
+
+}

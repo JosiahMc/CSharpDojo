@@ -1,0 +1,41 @@
+
+
+<div class="logout">
+<form asp-controller="Home" asp-action="Logout" method="POST">
+        <input type="submit" value="Logout">
+</form>
+</div>
+<div class="logout">
+<form asp-controller="Home" asp-action="Success" method="POST">
+        <input type="submit" value="Bright Ideas">
+</form>
+</div>
+
+<style>
+.chickenbutt 
+{
+    background: rgb(172, 173, 173);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+.logout 
+{
+    float: right;
+}
+
+</style>
+
+<h2>Post by: @ViewBag.Poster.FirstName</h2>
+
+<h5>Post itself ---> : @ViewBag.Posts.Description</h5>
+
+
+@foreach (var item in @ViewBag.LIKES) {
+
+    
+    <a href="Userprofile/@item.user.UserId"><p>@item.user.FirstName</p></a>
+
+
+}

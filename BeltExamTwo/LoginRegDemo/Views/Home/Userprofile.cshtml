@@ -1,0 +1,35 @@
+
+
+<div class="logout">
+<form asp-controller="Home" asp-action="Logout" method="POST">
+        <input type="submit" value="Logout">
+</form>
+</div>
+<div class="logout">
+<form asp-controller="Home" asp-action="Success" method="POST">
+        <input type="submit" value="Bright Ideas">
+</form>
+</div>
+
+<style>
+.chickenbutt 
+{
+    background: rgb(172, 173, 173);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+.logout 
+{
+    float: right;
+}
+</style>
+
+<h3> User: @ViewBag.User.FirstName</h3>
+<h3> Email: @ViewBag.User.Email</h3>
+
+
+<h5>Total Number of Posts: @ViewBag.posts.Count</h5>
+<h5>Total Number of Likes: @ViewBag.likes.Count</h5>
+

@@ -1,0 +1,79 @@
+@using System.Linq
+@using LoginRegDemo.Models
+@model IEnumerable<LoginRegDemo.Models.Post>
+
+<h2>Hello, @ViewBag.User.FirstName</h2>
+
+<div class="logout">
+<form asp-controller="Home" asp-action="Logout" method="POST">
+        <input type="submit" value="Logout">
+</form>
+</div>
+
+<style>
+.chickenbutt 
+{
+    background: rgb(172, 173, 173);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+.logout 
+{
+    float: right;
+}
+
+
+</style>
+    
+
+@{
+    var PostList = ViewBag.Posts as IEnumerable<LoginRegDemo.Models.Post>;
+}
+
+<form asp-action="Process" asp-controller="Home" method="POST">
+    <table class="table">
+        
+        <div class="form-group">
+            
+           <button type="submit">Idea!</button>
+           <textarea placeholder="Post deep thoughts and pithy stuff here..." class="form-control" type="text" rows="1" name="Description"></textarea>
+            </div>
+
+    </table>
+</form>
+
+
+
+
+         
+         
+    
+    
+@{
+
+    foreach (var item in @PostList) {
+        
+   
+        <div class="chickenbutt">
+        <p><a href="Userprofile/@item.user.UserId">@item.user.FirstName</a> says:</p>
+        <h4>@item.Description</h4>
+       <p><a href="LikeStatus/@item.PostId">@item.Likes.Count people </a>like this</p>
+        
+
+       @if (item.UserId == ViewBag.User.UserId) {
+        <a href="Delete/@item.PostId">Delete</a>
+           
+       }
+       
+        
+       
+            <a href="Join/@item.PostId">Like</a>
+       
+      </div>
+    
+    
+}
+
+}
